@@ -1,0 +1,2 @@
+# JavaCalc
+Kata test task
